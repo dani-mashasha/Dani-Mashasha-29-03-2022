@@ -2,7 +2,7 @@
 # Weather-app
 
 weather web application.
-Link - https://gocode-shop-dani.herokuapp.com/
+Link - https://dani-weather-app.herokuapp.com/
 
 ## Description
 
