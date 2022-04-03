@@ -5,7 +5,6 @@ import { Grid, Typography } from "@mui/material";
 import { useDispatch, useSelector } from "react-redux";
 import { getCityWheather } from "../actions/cityWeather.js";
 import { getFromLocalstorage } from "../actions/favorites.js";
-import Loader from "../components/Loader/Loader.js";
 
 export const Home = () => {
     const dispatch = useDispatch();
